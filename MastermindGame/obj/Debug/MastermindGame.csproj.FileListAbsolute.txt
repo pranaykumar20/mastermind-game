@@ -1,0 +1,8 @@
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\bin\Debug\MastermindGame.exe.config
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\bin\Debug\MastermindGame.exe
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\bin\Debug\MastermindGame.pdb
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\obj\Debug\MastermindGame.csproj.AssemblyReference.cache
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\obj\Debug\MastermindGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\obj\Debug\MastermindGame.csproj.CoreCompileInputs.cache
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\obj\Debug\MastermindGame.exe
+C:\Users\sdevuni\source\repos\MastermindGame\MastermindGame\obj\Debug\MastermindGame.pdb
