@@ -43,7 +43,7 @@ namespace MastermindGame
                         continue;
                     }
                 }
-
+                Hero
                 // Compare the guess with the answer
                 int plusCount = 0;
                 int minusCount = 0;
