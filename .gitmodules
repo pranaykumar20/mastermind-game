@@ -1,0 +1,3 @@
+[submodule "peoject"]
+	path = peoject
+	url = https://github.com/pranaykumar20/mastermind-game.git
